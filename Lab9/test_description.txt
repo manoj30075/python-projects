@@ -1,0 +1,8 @@
+test1.txt
+- closed the escape path with rock, then there should not be any path to escape
+
+test2.txt
+- No rocks, and escape is in row 1 then only row 1 vertices  will escape
+
+test3.txt
+- No rocks, and escape in the corner, then all vertices will escape

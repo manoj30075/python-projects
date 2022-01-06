@@ -1,0 +1,21 @@
+default Hash function 
+
+File name                       100                 1000
+
+mb.txt                          33.05               2.513931888544892
+atotc.txt                       108.93              9.993
+
+
+hash function 1
+
+File name                       100                 1000
+
+mb.txt                          33.05               3.5339547270306255
+atotc.txt                       108.93              10.286447638603697
+
+hash function 2
+
+File name                       100                 1000
+
+mb.txt                          33.05               2.618490967056323
+atotc.txt                       108.93              10.004004004004004
